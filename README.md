@@ -37,7 +37,7 @@ The first line stands for the serial number of the trajectory. The following lin
 
 ## Performance
 
-A briefly approximation over 90%.
+A briefly approximation over 90% of correction rate.
 
 Good case:
 
